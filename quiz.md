@@ -25,7 +25,7 @@ In React, component names must begin with an uppercase letter to distinguish the
 function Header() {
     return (
         <header>
-            <img src="./react-logo.png" width="40px" alt="React logo" />
+            <img src="./react-logo.svg" width="40px" alt="React logo" />
         </header>
     )
 }
